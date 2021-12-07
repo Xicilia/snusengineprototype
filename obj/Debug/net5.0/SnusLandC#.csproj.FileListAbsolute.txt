@@ -1,0 +1,48 @@
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\bin\Debug\net5.0\SnusLandC#.exe
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\bin\Debug\net5.0\SnusLandC#.deps.json
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\bin\Debug\net5.0\SnusLandC#.runtimeconfig.json
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\bin\Debug\net5.0\SnusLandC#.runtimeconfig.dev.json
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\bin\Debug\net5.0\SnusLandC#.dll
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\bin\Debug\net5.0\ref\SnusLandC#.dll
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\bin\Debug\net5.0\SnusLandC#.pdb
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\obj\Debug\net5.0\SnusLandC#.csproj.AssemblyReference.cache
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\obj\Debug\net5.0\SnusLandC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\obj\Debug\net5.0\SnusLandC#.AssemblyInfoInputs.cache
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\obj\Debug\net5.0\SnusLandC#.AssemblyInfo.cs
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\obj\Debug\net5.0\SnusLandC#.csproj.CoreCompileInputs.cache
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\obj\Debug\net5.0\SnusLandC#.dll
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\obj\Debug\net5.0\ref\SnusLandC#.dll
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\obj\Debug\net5.0\SnusLandC#.pdb
+C:\Users\Алая Дьяволица\Desktop\SnusLandC#\obj\Debug\net5.0\SnusLandC#.genruntimeconfig.cache
+C:\Users\79169\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.exe
+C:\Users\79169\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.deps.json
+C:\Users\79169\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.runtimeconfig.json
+C:\Users\79169\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.runtimeconfig.dev.json
+C:\Users\79169\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.dll
+C:\Users\79169\Desktop\counter strike\bin\Debug\net5.0\ref\SnusLandC#.dll
+C:\Users\79169\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.pdb
+C:\Users\79169\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.csproj.AssemblyReference.cache
+C:\Users\79169\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79169\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.AssemblyInfoInputs.cache
+C:\Users\79169\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.AssemblyInfo.cs
+C:\Users\79169\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.csproj.CoreCompileInputs.cache
+C:\Users\79169\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.dll
+C:\Users\79169\Desktop\counter strike\obj\Debug\net5.0\ref\SnusLandC#.dll
+C:\Users\79169\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.pdb
+C:\Users\79169\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.genruntimeconfig.cache
+C:\Users\Алая Дьяволица\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.exe
+C:\Users\Алая Дьяволица\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.deps.json
+C:\Users\Алая Дьяволица\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.runtimeconfig.json
+C:\Users\Алая Дьяволица\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.runtimeconfig.dev.json
+C:\Users\Алая Дьяволица\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.dll
+C:\Users\Алая Дьяволица\Desktop\counter strike\bin\Debug\net5.0\ref\SnusLandC#.dll
+C:\Users\Алая Дьяволица\Desktop\counter strike\bin\Debug\net5.0\SnusLandC#.pdb
+C:\Users\Алая Дьяволица\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.csproj.AssemblyReference.cache
+C:\Users\Алая Дьяволица\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алая Дьяволица\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.AssemblyInfoInputs.cache
+C:\Users\Алая Дьяволица\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.AssemblyInfo.cs
+C:\Users\Алая Дьяволица\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.csproj.CoreCompileInputs.cache
+C:\Users\Алая Дьяволица\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.dll
+C:\Users\Алая Дьяволица\Desktop\counter strike\obj\Debug\net5.0\ref\SnusLandC#.dll
+C:\Users\Алая Дьяволица\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.pdb
+C:\Users\Алая Дьяволица\Desktop\counter strike\obj\Debug\net5.0\SnusLandC#.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m72B7RgSzUFTvPjWNHkpEg2yr4UW84ePoJ/a8tZ7gfyTzrs6xkEtFRk7MXTgogkHpz5SDY0OJgmz1XZ3LyI+5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Алая Дьяволица\\Desktop\\counter strike\\SnusLandC#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алая Дьяволица\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
